@@ -6,6 +6,6 @@ The purpose of this tutorial is to provide simple didactic examples of deep lear
 
 For all the codes presented here, we use [Keras](https://keras.io/) as the deep learning library. Keras is a useful and straightforward framework, which can be employed for simple and complex tasks.  Keras is written in the Python language, providing self-explanatory codes, with the additional advantage to being executed under [TensorFlow](https://www.tensorflow.org/) backend. 
 
-![](/images/redes.png)
+![](./redes.png)
 
 More details are available at (link). 
