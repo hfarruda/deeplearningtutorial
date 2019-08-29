@@ -12,7 +12,12 @@ More details are available at (link).
 
 
 ## Feedforward networks
+
+### Binary Classification
 This is the first example of deep learning implementation, in which we address binary classification of breast cancer data. In this example, we consider one feedforward network with 5 hidden layers and with 30 neurons in each layer.  The provided networks were built only for a didactic purpose and are not appropriate for real applications.
+
+### Multiclass Classification
+In this example, we illustrate a multiclass classification through a wine dataset, in which there are three classes, which were defined according to their regions. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab link1)
 
