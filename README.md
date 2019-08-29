@@ -1,4 +1,4 @@
-#Deep Learning Tutorial
+# Deep Learning Tutorial
 
 This tutorial is part of the didactic text: Learning Deep Learning (CDT-15): (link)
 
