@@ -52,3 +52,7 @@ This example uses the Autoencoder model to illustrate a possible application. He
 This example was elaborated to create a network that can generate handwritten characters automatically.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab link6)
+
+
+## Libraries
+All of these codes were developed and executed with the environment described in "libraries.txt". 
