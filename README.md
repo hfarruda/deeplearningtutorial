@@ -39,7 +39,7 @@ This is the third example of deep learning implementation. Here we use a LSTM ne
 
 This is the fourth example of deep learning implementation. Here we use a RMB network to provide a recommendation system of musical instru-ments.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab link4)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hfarruda/deeplearningtutorial/blob/master/deepLearning_RBM.ipynb)
 
 
 ## Autoencoders
@@ -51,7 +51,7 @@ This example uses the Autoencoder model to illustrate a possible application. He
 ## Generative Adversarial Networks
 This example was elaborated to create a network that can generate handwritten characters automatically.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab link6)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hfarruda/deeplearningtutorial/blob/master/deepLearning_GAN.ipynb)
 
 
 ## Libraries
