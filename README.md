@@ -32,7 +32,7 @@ This tutorial is the second example of deep learning implementation, in which we
 
 This is the third example of deep learning implementation. Here we use a LSTM network to predict the Bitcoin prices along time by using the input as a temporal series.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab link3)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hfarruda/deeplearningtutorial/blob/master/deepLearning_LSTM.ipynb\)
 
 
 ## Recursive Boltzmann Machine
@@ -45,7 +45,7 @@ This is the fourth example of deep learning implementation. Here we use a RMB ne
 ## Autoencoders
 This example uses the Autoencoder model to illustrate a possible application. Here we show how to use the resulting codes to reduce the dimentionality. We also project our data by using a Principal Component Analysis(PCA).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab link5)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hfarruda/deeplearningtutorial/blob/master/deepLearning_AE.ipynb\)
 
 
 ## Generative Adversarial Networks
