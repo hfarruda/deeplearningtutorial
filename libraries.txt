@@ -1,4 +1,4 @@
-All of these codes were developed and executed in Python 3, with the libraries: 
+All of these codes were developed and executed in Python 3, with the following libraries: 
 
 Package                  Version              
 ------------------------ ---------------------
