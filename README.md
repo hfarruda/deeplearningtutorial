@@ -35,7 +35,7 @@ This is the third example of deep learning implementation. Here we use a LSTM ne
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hfarruda/deeplearningtutorial/blob/master/deepLearning_LSTM.ipynb)
 
 
-## Recursive Boltzmann Machine
+## Restricted Boltzmann Machine
 
 This is the fourth example of deep learning implementation. Here we use a RMB network to provide a recommendation system of musical instru-ments.
 
