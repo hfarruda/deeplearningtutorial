@@ -1,6 +1,6 @@
 # Deep Learning Tutorial
 
-This tutorial is part of the didactic text: Learning Deep Learning ([CDT-15](link)), authored by Henrique F. de Arruda, Alexandre Benatti, César Comin, and Luciano da Fontoura Costa.
+This tutorial is part of the didactic text: Learning Deep Learning ([CDT-15](https://www.researchgate.net/publication/335798012_Learning_Deep_Learning_CDT-15)), authored by Henrique F. de Arruda, Alexandre Benatti, César Comin, and Luciano da Fontoura Costa.
 
 The purpose of this tutorial is to provide simple didactic examples of deep learning architectures and problem solution. The codes included here are based on toy datasets, and restricted to parameters allowing short processing time. So, these codes are not suitable for other data and/or applications, which will require modifications in the structure and parameters.  These codes have absolutely no warranty.
 
