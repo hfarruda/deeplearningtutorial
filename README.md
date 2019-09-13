@@ -58,4 +58,6 @@ This example was elaborated to create a network that can generate handwritten ch
 All of these codes were developed and executed with the environment described in "libraries.txt". 
 
 ## Citation Request
-If you publish a paper based on this material, cite us as: H. F. de Arruda, A. Benatti, C. H. Comin, L.  da  F.  Costa,  “Learning Deep Learning (CDT-15),” 2019.
+If you publish a paper based on this material, cite us as: 
+
+H. F. de Arruda, A. Benatti, C. H. Comin, L.  da  F.  Costa,  “Learning Deep Learning (CDT-15),” 2019.
