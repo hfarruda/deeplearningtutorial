@@ -25,7 +25,7 @@ In this example, we illustrate a multiclass classification through a wine datase
 ## Convolutional Neural Network (CNN)
 This tutorial is the second example of deep learning implementation, in which we exemplify a classification task. More specifically, we considered ten classes of colored pictures.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hfarruda/deeplearningtutorial/blob/master/deepLearningCNN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hfarruda/deeplearningtutorial/blob/master/deepLearning_CNN.ipynb)
 
 
 ## Long Short-Term Memory (LSTM)
