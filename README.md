@@ -8,7 +8,7 @@ For all the codes presented here, we use [Keras](https://keras.io/) as the deep 
 
 ![](./redes.png)
 
-More details are available at (link). 
+More details are available at [CDT-15](https://www.researchgate.net/publication/335798012_Learning_Deep_Learning_CDT-15). 
 
 
 ## Feedforward networks
