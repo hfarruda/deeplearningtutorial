@@ -1,14 +1,14 @@
 # Deep Learning Tutorial
 
-This tutorial is part of the didactic text: Learning Deep Learning ([CDT-15](https://www.researchgate.net/publication/335798012_Learning_Deep_Learning_CDT-15)), authored by Henrique Ferraz de Arruda, Alexandre Benatti, César Comin, and Luciano da Fontoura Costa.
+This tutorial is part of the didactic text: [Learning Deep Learning](https://www.scielo.br/j/rbef/a/hMZfS8hRwMvVktkbCZtjJff/?format=html), authored by Henrique Ferraz de Arruda, Alexandre Benatti, César Comin, and Luciano da Fontoura Costa.
 
 The purpose of this tutorial is to provide simple didactic examples of deep learning architectures and problem solution. The codes included here are based on toy datasets, and restricted to parameters allowing short processing time. So, these codes are not suitable for other data and/or applications, which will require modifications in the structure and parameters.  These codes have absolutely no warranty.
 
-For all the codes presented here, we use [Keras](https://keras.io/) as the deep learning library. Keras is a useful and straightforward framework, which can be employed for simple and complex tasks.  Keras is written in the Python language, providing self-explanatory codes, with the additional advantage to being executed under [TensorFlow](https://www.tensorflow.org/) backend. We also employ the [Scikit-learn](https://scikit-learn.org/), which is devoted to machine learning. 
+For all the codes presented here, we use [Keras](https://keras.io/) as the deep learning library. Keras is a useful and straightforward framework, which can be employed for simple and complex tasks.  Keras is written in the Python language, providing self-explanatory codes, with the additional advantage of being executed under [TensorFlow](https://www.tensorflow.org/) backend. We also employ the [Scikit-learn](https://scikit-learn.org/), which is devoted to machine learning. 
 
 ![](./redes.png)
 
-More details are available at [CDT-15](https://www.researchgate.net/publication/335798012_Learning_Deep_Learning_CDT-15). 
+More details are available at [Learning Deep Learning](https://www.scielo.br/j/rbef/a/hMZfS8hRwMvVktkbCZtjJff/?format=html). 
 
 
 ## Feedforward networks
@@ -60,7 +60,7 @@ All of these codes were developed and executed with the environment described in
 ## Citation Request
 If you publish a paper related to this material, please cite:
 
-H. F. de Arruda, A. Benatti, C. H. Comin, L. da F. Costa, "Learning Deep Learning (CDT-15)," 2019.
+H. F. de Arruda, A. Benatti, C. H. Comin, L. da F. Costa, "Learning deep learning." Revista Brasileira de Ensino de Física 44, 2022.
 
 
 ## Acknowledgments
